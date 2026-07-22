@@ -68,6 +68,10 @@ The program displays:
 - Actual values
 - Model accuracy
 
+## Output Screenshot
+
+![Project Output](screenshots/output.png)
+
 ## Learning Outcomes
 
 This project demonstrates:
